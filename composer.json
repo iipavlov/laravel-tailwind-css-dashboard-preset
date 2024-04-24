@@ -1,6 +1,6 @@
 {
-  "name": "miaababikir/laravel-tailwind-dashboard-preset",
-  "description": "Laravel tailwind css dashboard preset",
+  "name": "iipavlov/laravel-tailwind-dashboard-preset",
+  "description": "Laravel tailwind css dashboard preset, forked to install with Laravel 11",
   "keywords": [
     "laravel",
     "preset",
